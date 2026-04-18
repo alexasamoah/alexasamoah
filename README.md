@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a senior Software Engineer with over a decade of experience building scalable systems that power advanced applications, AI/ML integrations, and distributed architectures with extensive experience working on complex projects like complex projects like [MultiChain Fraud Intelligence system](https://github.com/nathswealthgw/blockchain-fraud-detection), designing, deploying, and scaling high-performance machine learning systems across fintech, SaaS, and decentralized infrastructure environments.
+I’m a Full Stack Software Engineer with over a decade of experience building scalable systems that power advanced applications, AI/ML integrations, and distributed architectures with extensive experience working on complex projects and AI applications like [AlexMoah AI Trading Exchange](https://github.com/alexasamoah/AlexMoah-Trading-Exchange), designing, deploying, and scaling high-performance machine learning systems across fintech, SaaS, and decentralized infrastructure environments.
 
 I specialize in translating research-grade AI into production-grade systems that operate reliably at scale.
 
