@@ -48,4 +48,4 @@ Federated learning and decentralized AI strategies where appropriate.
 
 - 💼 Open to remote roles
 - 📧 [Email me](mailto:alexasamoahh001@gmail.com) for collaborations or opportunities
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-asamoah-4780a6402/)
+- 🔗 [LinkedIn](http://linkedin.com/in/alex-asamoah/)
